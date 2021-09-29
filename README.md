@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnitMathew
 - 👀 I’m interested in automation testing
 - 🌱 I’m currently working at UST Global
-- 📫  reach me at anitmathew8@gmail.com
+- 📫  reach me at 167588@ust-global.com
 
 <!---
 AnitMathew/AnitMathew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
